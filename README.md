@@ -16,7 +16,7 @@ This repository contains code to reproduce all experiments, figures, and tables 
 .
 ├── mapk_ieg_cascade/              # Investigation A: MAPK-IEG cascade
 │   ├── mapk_code_modules/         # Core modules for this case study
-│   ├── mapk_replicate_cache_25/   # Cached parameter replicates
+│   ├── mapk_replicate_cache/   # Cached parameter replicates
 │   ├── figures/                   # Generated figures
 │   ├── results/                   # Experimental results
 │   ├── experiment_runner.ipynb    # Runs experiments, generates data
